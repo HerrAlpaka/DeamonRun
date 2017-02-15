@@ -1,2 +1,3 @@
 # DeamonRun
-Deamon run is an JnR game made by me. 
+
+In the moment just the launcher is ready.
